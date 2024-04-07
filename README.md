@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timmytandian
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning data science with Python
+- 👀 I’m interested in Cloud Engineering and Data Science
+- 🌱 I’m currently learning AWS and Terraform
 - 💞️ I’m looking to collaborate on my learning process
 - 📫 
 
