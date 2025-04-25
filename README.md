@@ -45,6 +45,12 @@ Here are some things I've been building:
 
 ---
 
+# Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+---
 # GitHub Stats
 
 <p align="center">
@@ -52,8 +58,6 @@ Here are some things I've been building:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmytandian&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
 
-
----
 ---
 <!---
 timmytandian/timmytandian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
