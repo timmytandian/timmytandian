@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.timmytandian.com/tech-posts/index.xml,https://www.timmytandian.com/lifestyle-posts/index.xml"
+          max_post_count: 5
