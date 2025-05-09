@@ -47,6 +47,7 @@ Here are some things I've been building:
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Resume Challenge Part 3/4 - Back-End](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-3/)
 - [Cloud Resume Challenge Part 2/4 - Front-End](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-2/)
 - [Cloud Resume Challenge Part 1/4 - Project Summary](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-1/)
 - [First post! :rocket: Why I started this blog](https://www.timmytandian.com/tech-posts/why-i-started-this-blog/)
