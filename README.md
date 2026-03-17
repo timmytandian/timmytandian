@@ -47,11 +47,11 @@ Here are some things I've been building:
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Arch Linux Ep 1](https://www.timmytandian.com/tech-posts/installing-arch-linux-ep-1/)
 - [My job hunting story, transitioning from SysAdmin to DevOps &lpar;still halfway&rpar;](https://www.timmytandian.com/tech-posts/job-hunting-story/)
 - [Creating an Architecture Diagram for Global EC Site](https://www.timmytandian.com/tech-posts/global-ec-site-architecture/)
 - [Cloud Resume Challenge Part 4/4 - DevOps](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-4/)
 - [Cloud Resume Challenge Part 3/4 - Back-End](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-3/)
-- [Cloud Resume Challenge Part 2/4 - Front-End](https://www.timmytandian.com/tech-posts/cloud-resume-challenge-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
